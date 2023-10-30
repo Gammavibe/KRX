@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CGV/.idea/CGV.iml" filepath="$PROJECT_DIR$/../CGV/.idea/CGV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DART/.idea/DART.iml" filepath="$PROJECT_DIR$/../DART/.idea/DART.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/KRX.iml" filepath="$PROJECT_DIR$/.idea/KRX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MMCA/.idea/MMCA.iml" filepath="$PROJECT_DIR$/../MMCA/.idea/MMCA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MokDongCourt/.idea/MokDongCourt.iml" filepath="$PROJECT_DIR$/../MokDongCourt/.idea/MokDongCourt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TelegramBot/.idea/TelegramBot.iml" filepath="$PROJECT_DIR$/../TelegramBot/.idea/TelegramBot.iml" />
+      <module fileurl="file://$USER_HOME$/Anaconda3/envs/DG/Lib/site-packages/pykrx/.idea/pykrx.iml" filepath="$USER_HOME$/Anaconda3/envs/DG/Lib/site-packages/pykrx/.idea/pykrx.iml" />
+    </modules>
+  </component>
+</project>
